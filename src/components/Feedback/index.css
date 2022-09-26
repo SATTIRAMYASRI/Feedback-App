@@ -1,0 +1,42 @@
+/* Write your CSS code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  padding: 30px;
+  background-color: white;
+  width: 35%;
+  text-align: center;
+  border-radius: 10px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+.emoji-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.heart-emoji {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 0px;
+}
+.thankyou-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.thankyou-message {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #1e293b;
+}

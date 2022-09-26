@@ -1,0 +1,11 @@
+.button {
+  background-color: white;
+  border: 0px;
+}
+.li-container {
+  list-style-type: none;
+}
+.emoji-img {
+  width: 45px;
+  height: 45px;
+}
